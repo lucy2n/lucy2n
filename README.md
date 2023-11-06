@@ -15,7 +15,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucy2n&theme=omni&hide_border=true&border_radius=4.9)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucy2n&theme=omni&hide_border=true&border_radius=4.9&card_width=480)](https://git.io/streak-stats)
 ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy2n&show_icons=true&theme=synthwave)
 
 ![Counter](https://komarev.com/ghpvc/?username=your-github-lucy2n&color=ff69b4)
