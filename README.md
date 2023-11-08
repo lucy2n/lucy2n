@@ -1,7 +1,8 @@
 # 🦄 About Me:
-- I'm Lucy Naumenko,a front-end engineer from Belarus 🌎<br>
+- I'm Lucy Naumenko, a front-end engineer from Belarus 🌎<br>
 - I love to draw and create something new 🌈. <br>
-- Right now I'm learning React, TypeScript, and JavaScript 🌝
+- Right now I'm learning React, TypeScript and JavaScript 🌝
+- [My website](https://lucy2n.github.io/portfolio/)✨
 ## 🌸 How to reach me: 
 [![Telegram Badge](https://img.shields.io/badge/-lucy_naumenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucy_naumenko) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lysia.naumenko2002@gmail.com)
