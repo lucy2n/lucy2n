@@ -1,3 +1,7 @@
+<div id="mabel" align="center">
+  <img src="https://24.media.tumblr.com/tumblr_m732uiXY4Z1rnf5opo1_500.gif" width="700"/>
+</div>
+
 # 🦄 About Me:
 - I'm Lucy Naumenko, a front-end engineer from Belarus 🌎<br>
 - I love to draw and create something new 🌈 <br>
