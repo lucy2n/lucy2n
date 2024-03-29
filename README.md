@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucy2n&theme=omni&hide_border=true&border_radius=4.9&card_width=460)](https://git.io/streak-stats)
-![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy2n&show_icons=true&theme=synthwave&card_width=460)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucy2n&theme=default&hide_border=true&border_radius=4.9&card_width=460)](https://git.io/streak-stats)
+![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy2n&show_icons=true&theme=default&card_width=460)
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=lucy2n)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 ![Counter](https://komarev.com/ghpvc/?username=your-github-lucy2n&color=ff69b4)
