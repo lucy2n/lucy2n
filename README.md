@@ -2,16 +2,16 @@
   <img src="https://24.media.tumblr.com/tumblr_m732uiXY4Z1rnf5opo1_500.gif" width="700"/>
 </div>
 
-# 🦄 About Me:
+# About Me:
 - I'm Lucy Naumenko, a front-end engineer from Belarus 🌎<br>
 - I love to draw and create something new 🌈 <br>
 - Right now I'm learning NodeJs, React, TypeScript and JavaScript 🌝
 - [My website](https://lucy2n.github.io/portfolio/) ✨
-## 🌸 How to reach me: 
+## How to reach me: 
 [![Telegram Badge](https://img.shields.io/badge/-lucy_naumenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucy_naumenko) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lysia.naumenko2002@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucy-naumenko-805382254/)
-## 👩‍💻 Tech Stack:
+## Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,7 +28,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucy2n&theme=default&hide_border=true&border_radius=4.9&card_width=460)](https://git.io/streak-stats)
 ![Lucy's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucy2n&show_icons=true&theme=default&card_width=460)
