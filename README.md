@@ -7,7 +7,7 @@
 - Now I'm working on a project for a charity. We are transferring the project from Bitrix to React, Moleculer 👩‍💻<br>
 - I continue to study React, TypeScript, JavaScript and NodeJs🌝 <br>
 - I love to draw and create something new 🌈 <br>
-- [My website](https://lucy2n.github.io/portfolio/) ✨
+- [My website](https://lucy2n.github.io/my-resume/) ✨
 ## How to reach me: 
 [![Telegram Badge](https://img.shields.io/badge/-lucy_naumenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lucy_naumenko) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lysia.naumenko2002@gmail.com)
