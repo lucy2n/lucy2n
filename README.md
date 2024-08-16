@@ -14,11 +14,10 @@
 
 ## 🌐 Let’s Connect:
 - [Visit my website](https://lucy2n.github.io/my-resume/) ✨
-- [LinkedIn](https://www.linkedin.com/in/lucy-naumenko-805382254/) 
-- [Telegram](https://t.me/lucy_naumenko)  
-- Email: [lysia.naumenko2002@gmail.com](mailto:lysia.naumenko2002@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lucy-naumenko-805382254/) 💼
+- [Telegram](https://t.me/lucy_naumenko) ✈️
+- Email: [lysia.naumenko2002@gmail.com](mailto:lysia.naumenko2002@gmail.com) 📩
 
-## 🚀 Tech Stack
 ## 🚀 Tech Stack
 
 **Frontend:**  
