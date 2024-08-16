@@ -3,7 +3,7 @@
 </div>
 
 # 🌟 About Me
-👋 **Hi there! I’m Lucy Naumenko, a passionate front-end engineer from Belarus.**  
+👋 **Hi there! I’m Lucy Naumenko, a front-end engineer from Belarus.**  
 - Currently, I’m contributing to the development of **MEVENT** - a social network that connects people with local events in their city. Whether it’s organizing gatherings or discovering new experiences, our platform brings communities together. 🎉✨
 
 ## 🚀 What I’m Working On:
