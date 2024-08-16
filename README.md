@@ -9,9 +9,6 @@
 ## 🚀 What I’m Working On:
 - **MEVENT** - Bringing people together by making event discovery and participation easier and more fun! 🗓️
 
-## 💻 Мой стек технологий:
-- Я продолжаю углубляться в **React**, **TypeScript**, **JavaScript** и **Node.js**, создавая мощные и удобные приложения. 💪💻
-
 ## 🌈 What I Love:
 -	I’m all about creating, whether it’s through drawing, nurturing plants, or diving into the world of video games. 🎨🌱🎮
 
